@@ -1,5 +1,5 @@
 {
-  "name": "lnestid-editor-plugins",
+  "name": "lnestid-editorjs-plugins",
   "version": "0.0.1",
   "description": "",
   "main": "src/index.js",
